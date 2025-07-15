@@ -12,11 +12,11 @@ function Header() {
   }}
 >
   <div className="flex flex-col items-center">
-    {/* Header Top */}
+
     <div className="flex justify-around items-center w-full mb-5">
       <img src="imgs/İdmanhub.png" alt="" />
 
-      {/* Glass Navbar */}
+
       <nav
         className="w-[979px] h-[86px] bg-white/75 backdrop-blur-[2px] border border-white/25 rounded-[40px] flex items-center justify-center"
       >
@@ -37,7 +37,7 @@ function Header() {
       <img src="imgs/feather_menu.png" alt="" />
     </div>
 
-    {/* Header Text */}
+    
     <div className="flex flex-col justify-center items-center">
       <h1 className="text-white text-[128px] font-extrabold mt-[70px]">
         Seç. Oyna. Fəth et.
