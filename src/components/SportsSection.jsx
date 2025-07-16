@@ -28,7 +28,7 @@ function SportsSection() {
           />
         ))}
       </div>
-      <div className="max-w-[1440px] mx-auto flex gap-[50px] whitespace-nowrap overflow-hidden px-4">
+      <div className="max-w-[1440px] mx-auto flex gap-[50px] whitespace-nowrap overflow-hidden px-4  ">
         {cardsData.map((card, index) => (
           <SportCard
             key={index}
